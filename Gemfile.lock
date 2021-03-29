@@ -25,9 +25,9 @@ GEM
     eventmachine (1.0.0)
     eventmachine (1.0.0-java)
     eventmachine (1.0.0-x86-mingw32)
-    ffi (1.4.0)
-    ffi (1.4.0-java)
-    ffi (1.4.0-x86-mingw32)
+    ffi (1.15.0)
+    ffi (1.15.0-java)
+    ffi (1.15.0-x86-mingw32)
     haml (4.0.0)
       tilt
     json (1.7.7)
